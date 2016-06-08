@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3332"
-   sodipodi:docname="tealong.svg"
+   sodipodi:docname="logo-with-title.svg"
    viewBox="0 0 250.00002 59.999999"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -442,8 +442,8 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="126.8065"
-     inkscape:cy="21.140606"
+     inkscape:cx="141.81089"
+     inkscape:cy="20.156712"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
@@ -696,13 +696,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:62.71989441px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="102.73666"
-       y="846.15491"
+       x="100.27692"
+       y="847.13879"
        id="text3451"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="102.73666"
-         y="846.15491"
+         x="100.27692"
+         y="847.13879"
          id="tspan3455">GLFW</tspan></text>
   </g>
   <metadata
@@ -720,7 +720,7 @@
             <dc:title>Openclipart</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2011-02-13T19:51:54</dc:date>
         <dc:description />
         <dc:source>https://openclipart.org/detail/118177/teacup_-by-tonnnon</dc:source>
